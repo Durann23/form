@@ -1,0 +1,11 @@
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\bin\Debug\sensores.exe.config
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\bin\Debug\sensores.exe
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\bin\Debug\sensores.pdb
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\obj\Debug\sensores.csproj.AssemblyReference.cache
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\obj\Debug\sensores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\obj\Debug\sensores.Form1.resources
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\obj\Debug\sensores.Properties.Resources.resources
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\obj\Debug\sensores.csproj.GenerateResource.cache
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\obj\Debug\sensores.csproj.CoreCompileInputs.cache
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\obj\Debug\sensores.exe
+C:\Users\Jose Duran\Desktop\TIDSM\4to cuatrimestre\IoT\sensores\sensores\obj\Debug\sensores.pdb
